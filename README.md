@@ -64,21 +64,18 @@ churn_dashboard/
 
 ## 📸 Screenshots
 
-![Overview](./04_Screenshots/01_Overview.png)  
-![Insights](./04_Screenshots/02_Insights.png)  
-![ML Report](./04_Screenshots/03_ML_Report.png)
+![Overview](/saas_churn_Dashboard_ML/04_screenshots/01_overview.png)  
+![Insights](/saas_churn_Dashboard_ML/04_screenshots/02_Insights.png)  
+![ML Report](/saas_churn_Dashboard_ML/04_screenshots/03_ML_report.png)
 
 ---
 
 ## 🔗 Author
 
 **Jaishree Gandhi**  
-Connect on [LinkedIn](https://www.linkedin.com)
+Connect on [LinkedIn](https://www.linkedin.com/in/jaishree-gandhi-ab5498357/)
 
 ---
 
-## 🗂 Recommended Repository Info
 
-- **Repository Name**: `saas-churn-dashboard-ml`
-- **Main File Name**: `README.md`
 
