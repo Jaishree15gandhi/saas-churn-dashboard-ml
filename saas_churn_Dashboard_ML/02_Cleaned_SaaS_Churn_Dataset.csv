@@ -1,0 +1,501 @@
+user_id,plan_type,region,signup_date,last_active_date,login_frequency,features_used,subscription_length_days,feedback_score,churn,tenure_days,tenure_months,churn_flag,features_used_count
+3eb13b90-4668-4257-bdd6-40fb06671ad1,Basic,Asia,2024-10-24,2024-12-06,8,B,43,3,No,43,1,0,1
+bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,Basic,South America,2023-12-06,2024-03-23,2,"A, E, D, C, B",108,9,Yes,108,4,1,5
+0822e8f3-6c03-4199-972a-846916419f82,Pro,Europe,2025-05-08,2025-06-03,15,"E, C, A, D, B",26,6,Yes,26,1,1,5
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,Pro,North America,2023-07-09,2023-09-19,3,"D, A",72,6,No,72,2,0,2
+b38a088c-a65e-4389-b74d-0fb132e70629,Pro,North America,2023-07-06,2024-09-13,24,"D, A, B, E, C",435,10,No,435,14,0,5
+47378190-96da-4dac-b2ff-5d2a386ecbe0,Enterprise,Europe,2024-08-12,2025-01-21,23,"A, E, C",162,4,No,162,5,0,3
+b2b9437a-28df-4ec4-8e4a-2bbdc241330b,Basic,North America,2025-03-05,2025-03-06,13,C,1,8,No,1,0,0,1
+f50bea63-371e-4d7b-a7cd-813047229389,Basic,Asia,2024-05-09,2025-01-28,12,"B, C, D",264,2,No,264,9,0,3
+18c26797-6142-4a7d-97be-31111a2a73ed,Enterprise,Europe,2025-01-29,2025-04-04,6,"D, E",65,5,No,65,2,0,2
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,Basic,Asia,2024-03-20,2024-12-12,27,"A, B, E, D, C",267,5,Yes,267,9,1,5
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,Enterprise,Asia,2025-01-02,2025-04-01,7,"D, E, C, B, A",89,5,Yes,89,3,1,5
+a0ee89ae-d453-4d32-8b0d-bb418d5288f1,Enterprise,Asia,2024-04-05,2024-06-05,24,"E, D, C, B, A",61,4,No,61,2,0,5
+11ce5dd2-b45e-41f0-b139-d32c93cd59bf,Enterprise,South America,2024-10-08,2025-02-25,3,"A, E",140,3,No,140,5,0,2
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e,Enterprise,North America,2023-07-21,2024-12-15,13,"D, E, C, B",513,9,No,513,17,0,4
+614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,Enterprise,North America,2023-08-16,2025-06-10,22,E,664,5,No,664,22,0,1
+29a3b2e9-5d65-4441-9588-42dea2bc372f,Basic,Asia,2024-01-17,2025-01-03,14,"B, D, A",352,5,No,352,12,0,3
+b3aa7efe-4458-4885-ab90-99a435a240ae,Enterprise,North America,2024-03-29,2024-12-29,28,"C, B",275,3,No,275,9,0,2
+2bcfbe01-a28d-4fe3-9bf0-027312476f57,Enterprise,North America,2025-06-12,2025-06-15,20,"C, D",3,1,Yes,3,0,1,2
+6123fdf7-7656-4f72-a9d4-beef3eabedcb,Pro,Europe,2024-08-03,2025-05-13,2,"B, A, D",283,8,No,283,9,0,3
+af42e12f-3838-4326-8e94-4239b02b61c4,Basic,Europe,2024-01-11,2025-05-22,22,"D, B, E, C, A",497,9,No,497,17,0,5
+ce177b4e-0837-48a3-9261-a7ab3aa2e4f9,Enterprise,Asia,2024-02-22,2024-04-05,13,"C, D",43,9,No,43,1,0,2
+e9c349e0-3602-48ac-90f1-bc81448aaa9e,Basic,North America,2024-02-16,2024-12-23,11,"A, B",311,10,Yes,311,10,1,2
+7fcd9eb1-a7ca-4415-b66e-b16f508ebad7,Enterprise,North America,2024-08-29,2025-06-03,8,A,278,1,No,278,9,0,1
+3f22faf8-23be-401d-83cf-2fde24933b83,Enterprise,Europe,2024-04-18,2025-04-09,9,D,356,4,No,356,12,0,1
+95a76d79-bf3c-4c06-8343-08bc89fa6a68,Enterprise,South America,2025-01-14,2025-05-03,8,"D, E, A, C, B",109,7,No,109,4,0,5
+ff5e9ff0-ff50-4de4-b825-67b85cabcc97,Pro,North America,2024-05-13,2025-03-19,22,"A, E, B, C",310,2,Yes,310,10,1,4
+0c0fd195-c17a-408a-9745-d6d87e570ddf,Enterprise,South America,2023-10-01,2024-10-30,5,"D, B",395,5,No,395,13,0,2
+cac5b68c-28f4-4481-a0a0-4dc427209bdf,Pro,North America,2025-04-14,2025-04-24,2,E,10,1,No,10,0,0,1
+61b1cd22-6280-4c45-9043-5a1098ae4334,Basic,South America,2024-11-25,2025-05-07,16,"D, B",163,7,No,163,5,0,2
+8da0365b-f898-47b9-805c-acec877409a9,Pro,North America,2024-09-20,2025-03-20,13,"C, D",181,5,No,181,6,0,2
+ae849217-1d53-434b-b881-39b9ae270da7,Enterprise,South America,2025-04-14,2025-04-15,5,"B, C, A, D, E",1,6,Yes,1,0,1,5
+a4161293-c4c2-42e3-844e-a7c8c0398710,Pro,Europe,2025-05-03,2025-05-29,2,"E, A, D, C, B",26,4,No,26,1,0,5
+74273ca3-287d-46ca-af4c-c69a4b22d308,Basic,North America,2024-03-06,2024-05-31,20,"A, D, C, B, E",86,4,No,86,3,0,5
+f8cda88b-436d-46e2-b83c-fe0be037e5ed,Basic,Asia,2023-06-18,2024-12-29,13,"B, C, E",560,6,No,560,19,0,3
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,Basic,South America,2024-07-08,2025-04-29,20,E,295,2,Yes,295,10,1,1
+9be578c7-81f6-41d4-a392-31a7d777a477,Enterprise,Asia,2025-04-22,2025-05-20,5,"C, A",28,4,No,28,1,0,2
+8a14be62-295b-4715-8333-e8615fb8d16c,Pro,Asia,2023-11-17,2024-03-14,20,"E, A",118,9,Yes,118,4,1,2
+52fbe43b-9954-4eb4-8025-7ad1eb2263dd,Basic,Asia,2025-02-09,2025-05-22,4,A,102,9,Yes,102,3,1,1
+e0f3eab0-5cec-4eb5-add9-68311ca35cfb,Enterprise,Europe,2024-06-29,2024-07-06,23,"C, B, E",7,5,No,7,0,0,3
+3da9c2a9-0ed4-4f1a-bd4c-bf374eb93eff,Basic,North America,2025-03-22,2025-06-08,21,"D, C, A",78,1,No,78,3,0,3
+d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269,Enterprise,Asia,2025-04-27,2025-05-04,6,"D, E",7,9,Yes,7,0,1,2
+20de435d-2031-4750-840d-b9b4885f6e66,Enterprise,Europe,2023-08-08,2025-03-20,18,A,590,6,No,590,20,0,1
+43dac043-2a45-42ab-8cbf-edb0f264accc,Pro,Europe,2024-11-09,2025-05-12,2,"C, E",184,1,No,184,6,0,2
+edcd465e-3638-4821-b6e0-7cc06c52c49f,Enterprise,Europe,2024-07-29,2025-03-21,22,"A, C",235,9,No,235,8,0,2
+b683d2e6-337e-42df-b09b-2a5cbadcc32a,Enterprise,Europe,2024-08-07,2025-05-27,30,"B, E, A, D",293,1,Yes,293,10,1,4
+5f987c71-a65e-488e-abf3-ad39fec21bbe,Pro,Europe,2024-02-13,2024-12-18,9,"B, A, E",309,1,No,309,10,0,3
+1064005c-3985-43cf-bf76-be1d1efa2197,Basic,South America,2024-05-21,2025-05-06,12,"C, B",350,4,Yes,350,12,1,2
+96a402f2-3ae8-4c93-8dcd-cd03969b6662,Pro,Asia,2024-03-04,2024-03-20,9,"A, C",16,6,No,16,1,0,2
+0f1259e0-a18f-46b6-b535-106e122c9a56,Enterprise,Asia,2023-12-04,2023-12-09,1,"A, C, E, B",5,1,Yes,5,0,1,4
+5496f63c-dc11-40c1-880a-adfbe7c99b26,Pro,Asia,2023-12-10,2024-01-31,14,"E, A, B, D",52,5,Yes,52,2,1,4
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,Basic,Europe,2023-08-10,2024-09-12,12,"D, A, C, B",399,10,No,399,13,0,4
+e1e3db63-ef7d-4c76-b92d-a22b21df306f,Enterprise,Asia,2023-11-29,2025-01-20,17,C,418,7,No,418,14,0,1
+7914c120-c8dc-419f-be35-11287900f7f9,Enterprise,Europe,2024-09-01,2025-04-12,7,"D, E, C",223,3,No,223,7,0,3
+a8b317fa-18d0-452b-9825-bc5430beb45f,Pro,North America,2025-03-04,2025-05-22,10,"C, B, D",79,10,No,79,3,0,3
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611,Pro,South America,2024-05-15,2025-02-14,15,"B, D, C",275,3,No,275,9,0,3
+a56c0941-fbf2-4050-a748-dbcfac619e63,Enterprise,Asia,2025-01-02,2025-01-12,3,"B, C, A",10,4,Yes,10,0,1,3
+ccf3a171-56dc-4907-ba6c-34ab6712303a,Basic,South America,2023-08-31,2023-10-17,20,A,47,8,No,47,2,0,1
+894a05e4-30b1-47ef-b10c-0c003fa7f104,Basic,South America,2025-04-15,2025-04-25,16,"D, B, A, C, E",10,7,Yes,10,0,1,5
+766ecb15-474e-4c19-aef9-12766c006f61,Pro,North America,2024-05-29,2024-07-22,18,"B, A, E, D, C",54,9,No,54,2,0,5
+db20a56e-dc81-4fe7-8eda-8bbb71710434,Pro,South America,2023-12-27,2024-02-23,20,"E, D, C, B, A",58,8,No,58,2,0,5
+8a63f881-ffd0-49d5-a6f2-f7b80cf35b58,Enterprise,Asia,2024-08-16,2024-09-23,25,"E, D",38,4,Yes,38,1,1,2
+c0e9ab30-ed26-42e9-97e0-11b7f8102383,Enterprise,Asia,2025-03-26,2025-03-27,8,C,1,6,No,1,0,0,1
+7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,Basic,Europe,2025-04-05,2025-04-27,5,"B, D, C, A, E",22,2,No,22,1,0,5
+610461e3-2a25-4888-8f02-bad0e7067ef4,Enterprise,South America,2023-11-29,2024-10-05,14,"A, B, D",311,7,No,311,10,0,3
+c8fe3ccd-c8b8-49c6-ad30-49cf43e458fc,Enterprise,North America,2023-06-17,2024-04-15,28,"E, D, B, A, C",303,5,No,303,10,0,5
+bb026576-f512-44c3-b253-d2186c4a37ea,Enterprise,Europe,2024-06-03,2024-09-21,16,"B, C, E, D",110,1,No,110,4,0,4
+27a0c3d7-7c96-4f79-b7e9-9acaa97065e1,Enterprise,Europe,2025-02-13,2025-05-31,27,"D, B, C, A",107,7,No,107,4,0,4
+944528c0-0ef8-42d6-b7fd-564637bb3eec,Basic,South America,2023-11-10,2024-06-27,5,D,230,3,Yes,230,8,1,1
+0ea2622b-5048-47ba-bf7b-539b0f9aea4b,Pro,Europe,2025-01-07,2025-04-22,15,"C, E, B, D",105,7,Yes,105,4,1,4
+da4bd9ca-eb5c-4467-80ba-cd647a0ecfea,Pro,North America,2023-07-24,2024-10-19,24,E,453,1,No,453,15,0,1
+14822f53-8201-4c62-b5f5-9b220e8fa8e0,Basic,North America,2024-08-01,2024-10-01,25,"A, E, D",61,4,No,61,2,0,3
+acdabacc-1165-4210-9854-3881118a9d29,Basic,Europe,2025-04-07,2025-04-25,5,"D, A, C, E, B",18,5,No,18,1,0,5
+e3e9de99-f10c-418b-9eb0-e38a675dd5af,Enterprise,North America,2025-04-15,2025-05-07,25,"B, C",22,2,No,22,1,0,2
+9e8fc965-0a2c-427e-9832-685694340a03,Enterprise,South America,2024-08-31,2024-12-04,13,"B, A, C",95,4,Yes,95,3,1,3
+85d51695-90b2-4633-956b-8c0ca8499b92,Enterprise,North America,2023-08-18,2024-07-08,26,"E, A, B",325,9,No,325,11,0,3
+506e5a9a-b758-488d-ab73-295b344a54b8,Basic,Asia,2024-02-16,2024-09-05,1,"D, E, A",202,7,No,202,7,0,3
+a53f8a28-abf3-43fc-a181-3d25655238a6,Enterprise,Europe,2023-12-18,2024-07-11,14,"B, C, D, E",206,8,No,206,7,0,4
+ef8c485b-c07a-40f2-add4-253b50f0fd0a,Pro,Asia,2024-02-04,2025-01-24,28,"B, A, E, C, D",355,8,No,355,12,0,5
+902059e4-ff9a-45c2-9f04-4aed75523327,Pro,North America,2023-08-11,2023-08-18,16,"C, B, D, A",7,6,No,7,0,0,4
+43e42caf-8181-48cc-b691-47eb89a2688b,Pro,Asia,2023-09-01,2023-10-27,18,"A, B, E",56,4,No,56,2,0,3
+3e896c64-e117-4ac3-919c-4ea3e1805081,Enterprise,Europe,2023-09-26,2024-06-23,23,"D, E, B, A",271,2,Yes,271,9,1,4
+8b10550c-d570-4f32-b02c-dd20286218b8,Enterprise,Europe,2024-03-29,2024-11-05,10,"E, C, B, D",221,7,No,221,7,0,4
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec,Pro,Asia,2024-12-13,2025-02-09,23,"D, C, B, E, A",58,2,No,58,2,0,5
+8dfa6a56-d12d-4c9a-aaf9-15310200b1f0,Basic,Europe,2024-11-04,2025-05-28,7,"B, D, E",205,10,No,205,7,0,3
+43b409ef-2260-470f-a0cc-edc5f05db76e,Enterprise,Asia,2024-02-03,2024-04-23,4,"B, C, A, E, D",80,5,Yes,80,3,1,5
+45b89cd9-27cb-4f2a-8da0-1097be0f051b,Basic,Asia,2023-09-13,2023-12-05,2,"A, C, D, E, B",83,2,No,83,3,0,5
+341ef40b-57c7-40aa-b7b5-6ea735ebd32d,Pro,South America,2024-01-20,2025-05-03,16,"D, C, A, E, B",469,8,Yes,469,16,1,5
+e7c421c7-4049-4b71-bd10-6c6081627cf1,Pro,South America,2024-11-30,2025-03-12,3,E,102,1,Yes,102,3,1,1
+d450281c-6c6f-4633-a260-772317a0df49,Pro,North America,2025-05-21,2025-05-23,8,"A, D, C, E, B",2,8,No,2,0,0,5
+217d65a0-c568-41cd-9563-f61600e85ece,Enterprise,South America,2024-01-16,2024-02-19,10,"E, A, C",34,2,No,34,1,0,3
+8d3aed99-711c-41c9-bdc1-4f1f295d6fbf,Enterprise,Europe,2024-10-22,2025-01-31,9,"A, B",101,4,Yes,101,3,1,2
+13432e61-1ca3-4448-8279-b6a68f9797b0,Basic,North America,2024-12-15,2025-03-08,14,D,83,10,No,83,3,0,1
+093923de-8bab-4e3b-a628-6bfbe767dcea,Basic,Asia,2025-05-01,2025-06-03,23,C,33,8,Yes,33,1,1,1
+6e068097-25e9-4977-8d72-48e2951f58d0,Pro,Europe,2025-03-25,2025-04-29,14,"A, B",35,3,No,35,1,0,2
+eededb07-e623-4689-9d59-cd2a4eea04e7,Basic,North America,2023-09-22,2023-10-24,6,"C, E",32,8,Yes,32,1,1,2
+ae9bec36-35c7-436c-9b99-62c6e61fecc0,Enterprise,South America,2025-02-23,2025-03-02,9,"E, D, B",7,2,No,7,0,0,3
+8f5486b7-c7b5-42bc-9a8a-aeca1a50aec3,Enterprise,Asia,2023-12-26,2025-05-27,20,"C, A, D, E",518,10,No,518,17,0,4
+bfddc3d9-9ee3-4c2a-b94d-62046808593f,Enterprise,Asia,2025-05-02,2025-06-13,19,A,42,3,No,42,1,0,1
+ccc56569-f9e8-4369-a999-b735dd56cc94,Pro,Europe,2023-10-14,2024-04-14,19,"D, E, A, B",183,6,No,183,6,0,4
+2dea9493-0658-463a-a98c-206fe1a47e10,Enterprise,North America,2025-03-06,2025-04-09,28,"B, C, E",34,8,Yes,34,1,1,3
+cd5f4822-6966-48aa-ae49-f329c84a7b28,Enterprise,North America,2025-01-08,2025-03-13,15,"A, C, B, D",64,2,No,64,2,0,4
+b386f7a4-c991-403f-a8c1-3091444d610b,Enterprise,North America,2024-11-17,2025-02-21,22,"E, D, B, A",96,4,No,96,3,0,4
+787f2425-dbcc-4477-89e9-db0adf465290,Pro,South America,2023-09-07,2024-06-30,25,"A, B, D, E, C",297,8,No,297,10,0,5
+598336e3-75d6-4ed4-ab1f-a9f2d10bd1d0,Basic,North America,2023-12-05,2024-05-08,21,"E, B, C, A",155,5,No,155,5,0,4
+3170f437-a8f7-4f5a-860e-df5b39118497,Pro,North America,2024-02-08,2024-08-02,8,"A, D, E, C, B",176,5,No,176,6,0,5
+f7860b50-11c5-4ef0-9d46-3c09475287aa,Pro,South America,2024-04-20,2024-12-30,16,"B, D, C",254,3,No,254,8,0,3
+6651529e-8268-490b-a438-25b559e4b671,Enterprise,Europe,2025-02-05,2025-03-31,28,"A, C, B, D, E",54,1,Yes,54,2,1,5
+e08596db-1d87-4966-8710-d430f071d879,Enterprise,South America,2024-11-24,2025-04-01,28,"B, D, C",128,8,No,128,4,0,3
+43f59a85-fbc9-487a-b668-a61794a1875d,Enterprise,South America,2024-01-04,2024-05-21,15,"C, B, E, A, D",138,4,No,138,5,0,5
+ba81edd9-587e-4344-af3f-920c98b8e4cc,Basic,Asia,2023-07-15,2023-10-07,24,"D, E, B, A",84,8,No,84,3,0,4
+82ec9f2d-fbf6-416f-9b30-80d56fb78271,Enterprise,Asia,2025-02-15,2025-04-16,28,"A, D",60,2,No,60,2,0,2
+41357e8c-30a9-40ad-939b-462de645f129,Basic,Europe,2023-09-13,2024-07-08,14,"B, A, E, C",299,6,No,299,10,0,4
+ecf27e76-8519-4ff4-806e-d6e36fa17735,Enterprise,North America,2023-07-20,2025-01-20,28,"C, D, B, E",550,9,Yes,550,18,1,4
+bdf070aa-f0b5-456b-b82c-9074afd5dea5,Basic,Asia,2025-03-03,2025-06-15,8,A,104,7,No,104,3,0,1
+11e9cdaa-6e69-41a3-9d3d-9e563270e4fa,Pro,Europe,2025-01-08,2025-05-18,23,C,130,1,Yes,130,4,1,1
+d9178793-a9d3-42e6-905c-c6869f871ce7,Pro,Asia,2024-11-12,2025-03-20,12,D,128,3,Yes,128,4,1,1
+4f2d4796-81d2-47de-8ce1-eb90e6697833,Enterprise,Europe,2023-09-20,2025-04-01,6,"B, A, C, E",559,10,No,559,19,0,4
+4bb00f20-b27c-4026-a703-b6365380b904,Enterprise,Europe,2024-11-14,2025-04-21,8,"D, C, B, E",158,1,No,158,5,0,4
+f0bbac67-aa38-40a1-aba2-5efe311c6eb6,Pro,Europe,2024-08-19,2024-10-07,3,"D, C, E, B",49,7,No,49,2,0,4
+67f48ad5-4d0b-4d1a-91b0-e1d99d9262af,Pro,Europe,2024-04-05,2024-08-18,13,"D, A, E, B",135,10,No,135,4,0,4
+6e0d2648-35ce-4841-8973-2d6c4dcabfb7,Enterprise,Asia,2024-08-14,2024-08-14,1,"D, C, A",0,10,No,0,0,0,3
+77097749-527e-4cfa-a79a-c9aa9b4e2c24,Enterprise,South America,2025-02-15,2025-06-07,27,C,112,4,No,112,4,0,1
+7922bac2-82dc-4c8e-b6b5-229aacf5e81e,Basic,Europe,2024-05-24,2024-11-11,20,"C, B, E",171,2,No,171,6,0,3
+83f4a9a9-48a6-49d0-95b5-2908a8aa7158,Pro,South America,2025-02-21,2025-03-25,2,E,32,6,No,32,1,0,1
+c04a96c4-f3b6-4fe1-9184-332417e8392a,Pro,Asia,2024-11-12,2025-03-22,24,D,130,3,Yes,130,4,1,1
+32fa2de8-ce7a-47f6-b982-0cff4f77a665,Pro,Asia,2023-12-15,2025-05-20,27,"B, C, E, D, A",522,2,No,522,17,0,5
+79a28903-fbe3-4b24-beae-00320bd4a990,Basic,Europe,2023-10-08,2023-10-26,28,D,18,9,No,18,1,0,1
+a1384ddc-e2d9-4e5d-aa18-ce4c74962764,Basic,Asia,2024-10-02,2024-10-30,18,"A, D, B, C",28,10,No,28,1,0,4
+7e8f8095-624c-49b6-b244-45a7b7e58481,Basic,Europe,2024-09-05,2024-11-19,16,"A, C, D",75,4,No,75,2,0,3
+016b6287-b008-45cc-a7f3-6ae925c73c44,Enterprise,Asia,2024-04-21,2024-10-27,21,"D, A, E, C",189,1,No,189,6,0,4
+1b494e15-e2ad-4909-8521-bf2ddc45d539,Basic,North America,2025-05-09,2025-06-14,8,"E, B, D, C",36,6,No,36,1,0,4
+f53d4330-cdda-44ba-ad06-e8cf3805f907,Pro,Europe,2025-02-09,2025-05-02,29,"D, A, B, C, E",82,1,No,82,3,0,5
+3fcb7546-8eb2-4579-8cdb-1ca476ecbdd6,Pro,South America,2024-12-07,2025-03-17,8,"C, A",100,6,No,100,3,0,2
+76f2dbfe-cd29-436f-a222-82e174daaebf,Basic,South America,2025-05-28,2025-05-30,9,"B, A, E",2,2,No,2,0,0,3
+513a7052-986f-4025-8f15-ba58fce68504,Basic,North America,2024-11-15,2025-06-09,26,"C, B, A, E, D",206,9,Yes,206,7,1,5
+e45b712e-b822-4688-90a4-44329cd6c852,Basic,Asia,2025-01-22,2025-04-17,25,"B, A",85,5,No,85,3,0,2
+722764e6-8c41-461b-a827-a1b9d4a02e53,Basic,Asia,2024-07-12,2024-12-24,26,"B, A",165,1,Yes,165,6,1,2
+7337c599-7984-4388-9c8a-ee30be6033f7,Basic,Asia,2025-05-12,2025-05-19,1,"B, C, A",7,3,No,7,0,0,3
+c40c5d91-46fd-4062-a33d-c7afd701410d,Basic,North America,2024-01-03,2024-07-13,16,"D, C, E, A, B",192,9,Yes,192,6,1,5
+464c04af-3d3f-4799-a072-95e97c0e8cd8,Basic,Asia,2025-02-09,2025-05-21,15,"A, E, B, C, D",101,2,No,101,3,0,5
+458f1f19-3c07-4574-8925-7af1b6aae05b,Basic,North America,2024-05-22,2024-07-21,11,"E, B, A, C",60,5,No,60,2,0,4
+236c7b87-14a0-4ccb-8a47-6a87e49d681d,Enterprise,Asia,2024-03-02,2024-11-05,13,"E, C, B, D, A",248,2,No,248,8,0,5
+b4d7e28e-271e-4ee2-b1a6-b1f1620e99d3,Enterprise,Europe,2023-10-11,2024-04-07,14,"D, B, E, C, A",179,7,No,179,6,0,5
+8ae8905b-54b4-4482-a858-6eba6a34c854,Pro,South America,2023-11-29,2024-01-17,11,C,49,6,No,49,2,0,1
+6b8e869f-d538-4b0e-b4f3-193c0ff0a55c,Basic,North America,2024-06-11,2024-11-19,27,"A, E, B, D",161,6,No,161,5,0,4
+9360715f-c3fe-4183-a172-b725db52ca58,Basic,Asia,2024-04-13,2024-04-28,22,"A, D, B, C, E",15,5,No,15,0,0,5
+4c71e0fe-5a0c-4d7c-b157-8470018267c4,Basic,Europe,2024-04-06,2025-04-11,5,"D, B, A",370,6,No,370,12,0,3
+d5f25073-f414-42b1-a442-9ebbda7b9095,Basic,Asia,2025-01-21,2025-04-06,19,"B, D, C",75,10,No,75,2,0,3
+6f92f25e-45df-46b6-b82c-043f7cfc9b79,Basic,Asia,2024-05-06,2024-10-24,1,"B, C, D, E, A",171,6,Yes,171,6,1,5
+addc3e13-ab3b-4d37-960c-95ee638c254c,Enterprise,South America,2024-06-27,2024-07-08,3,"B, A",11,2,No,11,0,0,2
+77a6e17c-d72b-4108-aa40-5f12b963f37f,Pro,South America,2025-02-24,2025-05-13,15,"C, B",78,6,No,78,3,0,2
+06e745f9-88bc-439c-9f4c-3b79fb10987f,Enterprise,North America,2025-05-30,2025-06-02,29,"A, B, E",3,10,Yes,3,0,1,3
+06f028ff-a9ba-4a27-907b-fe36978648f8,Pro,South America,2025-05-20,2025-06-08,22,D,19,8,No,19,1,0,1
+7631de9d-dde9-4863-a2bd-33886db99102,Pro,Europe,2023-08-20,2024-12-31,25,"E, A, B, C",499,2,Yes,499,17,1,4
+362f5e5c-53cd-4268-a10c-f37342999aa4,Pro,Asia,2023-11-04,2023-12-13,2,"B, D, C, A, E",39,4,No,39,1,0,5
+610e6a64-e130-4617-82df-f33556666f9f,Basic,Asia,2024-06-03,2024-10-07,10,"C, A",126,1,No,126,4,0,2
+78660765-14f7-4e8d-95bc-b8d04094dded,Basic,Europe,2024-01-18,2024-12-10,13,"E, B, C, D",327,2,No,327,11,0,4
+f3b1025b-fff9-4585-8d55-7b618a175dfe,Pro,North America,2023-07-01,2025-02-01,15,A,581,6,No,581,19,0,1
+f510ab53-c7fe-439f-9190-f938a66fd7f7,Pro,South America,2024-03-13,2024-09-03,10,"A, D, E, B, C",174,10,No,174,6,0,5
+3f4df561-f319-4125-87f1-94f9c1156d6d,Basic,South America,2024-11-03,2024-11-18,28,"A, B, D",15,10,No,15,0,0,3
+20500494-3d11-4802-a702-878b9f0fda8d,Pro,Asia,2023-11-17,2023-12-02,24,C,15,4,No,15,0,0,1
+37cc863b-f2a0-4459-9060-4f621d48a071,Basic,North America,2024-06-17,2025-03-03,17,"E, B",259,6,No,259,9,0,2
+2af43ab7-5e6f-4a07-8453-6f1d41992fdf,Basic,North America,2024-06-11,2025-03-09,5,"C, B",271,3,No,271,9,0,2
+1d5206ab-b7e6-427c-bf78-0e3ff6b751f7,Basic,South America,2024-09-28,2025-05-21,15,E,235,10,No,235,8,0,1
+9424aed5-1bac-4c15-8fa0-3f26f6f7f0cc,Enterprise,Asia,2025-02-09,2025-03-12,28,"C, B, D, A, E",31,8,No,31,1,0,5
+f54ad0a2-e874-46d7-ad66-a1bd93676a02,Enterprise,North America,2023-07-05,2024-03-03,12,"E, A, B",242,8,No,242,8,0,3
+13748146-32c5-4d89-b70b-3420f1043785,Pro,Asia,2024-04-02,2025-02-04,3,A,308,10,No,308,10,0,1
+1a16342c-3e2b-4091-a092-f52ad4a057a7,Pro,North America,2024-09-17,2025-06-12,15,"E, B, D, C",268,9,Yes,268,9,1,4
+99b49350-af2b-49b4-99ac-d1584d3485c5,Pro,North America,2024-12-08,2025-05-07,26,C,150,2,No,150,5,0,1
+c85aca46-90e0-44a0-bbdd-3933cbd58bf6,Basic,Europe,2025-03-02,2025-03-25,23,"D, E",23,9,No,23,1,0,2
+5eddbbbf-a959-4663-adaa-2e688861fe18,Pro,Asia,2023-07-17,2024-04-11,30,"C, D",269,7,No,269,9,0,2
+d97dc9cd-033d-4bce-975a-ed2ca5c5650c,Basic,Asia,2023-08-08,2024-09-03,3,"C, A, E, B, D",392,5,No,392,13,0,5
+5cb85aed-f5f6-4c97-aefb-63b11b049863,Basic,Asia,2024-05-07,2025-05-22,3,"E, B, D, C, A",380,3,No,380,13,0,5
+2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,Pro,South America,2024-10-21,2025-04-17,21,C,178,3,No,178,6,0,1
+9dac6e83-4524-4ea6-a684-6099f7294951,Basic,South America,2025-01-05,2025-04-16,17,"C, A, B, E, D",101,4,No,101,3,0,5
+bb2488a3-d363-47b6-af81-cf4f7701f7bb,Basic,Europe,2025-03-04,2025-06-05,5,"B, A, E, D",93,9,No,93,3,0,4
+d4aac9a3-3ed8-456c-9a09-dfa052828d80,Basic,Asia,2024-09-18,2024-12-31,29,"E, B, C, D, A",104,3,Yes,104,3,1,5
+3e6dd58b-7367-428d-a1b2-94de4767d76c,Basic,South America,2025-06-10,2025-06-10,2,"D, C, E, A, B",0,10,Yes,0,0,1,5
+6105716b-ab0e-464e-9c3e-b2d591e1aa96,Basic,Europe,2025-01-18,2025-04-18,10,"D, B, E, C",90,8,No,90,3,0,4
+2e8d0e87-5334-40e6-99d8-0b8d7e8adee7,Enterprise,South America,2024-03-03,2024-03-25,6,"B, E, D, A",22,8,No,22,1,0,4
+57207246-4223-423b-8c3e-bdde5ad5cf06,Basic,North America,2024-06-28,2024-09-18,10,"A, B, D, C, E",82,7,Yes,82,3,1,5
+8e485223-46b9-4991-a14e-b70db380c73a,Pro,Asia,2024-01-19,2025-04-26,30,"A, D",463,1,No,463,15,0,2
+3dc98290-15ea-4b27-b0e9-12f2f2b43abf,Basic,South America,2023-06-23,2024-07-28,3,"C, B, A",401,6,No,401,13,0,3
+3d85de89-c217-4429-8e20-07247d137018,Basic,Europe,2024-12-26,2025-03-14,2,"C, D, E",78,3,No,78,3,0,3
+72bb912d-7da6-4785-b63b-4dc3a559e463,Pro,North America,2024-12-03,2025-06-05,29,"A, E, B, D",184,3,No,184,6,0,4
+6786d506-38ba-4abc-8b53-05e517d2582e,Enterprise,South America,2025-02-20,2025-02-23,4,"C, B, D, A, E",3,4,No,3,0,0,5
+5e781fd7-94e0-43ba-a9f9-48b24e6384bb,Pro,North America,2024-12-04,2025-01-20,4,"D, A, C, E, B",47,5,No,47,2,0,5
+ff233d5f-6ced-415d-9800-7c0287ea7ff5,Pro,Europe,2024-06-17,2025-01-17,19,"D, B, C, A, E",214,2,No,214,7,0,5
+7428a656-b3ee-4d3b-9a10-412954aebd1b,Enterprise,North America,2025-01-15,2025-05-01,13,"D, A, C, B, E",106,5,No,106,4,0,5
+b8a6171f-1ee3-4dc4-bb04-8a8b405bfdc9,Basic,Asia,2024-01-12,2024-09-06,8,"A, C, E",238,1,No,238,8,0,3
+f36cb62b-892e-4161-be2d-740a1e9b23bc,Enterprise,Europe,2023-11-12,2024-07-14,27,"D, E, C",245,3,No,245,8,0,3
+bd1531c8-3764-4bda-b108-d4482f65fafa,Enterprise,South America,2025-01-28,2025-06-11,2,C,134,4,Yes,134,4,1,1
+c29cfc0c-fa02-4aec-96ef-2ad6b97e6703,Basic,Asia,2024-06-26,2024-10-11,30,"C, D",107,9,No,107,4,0,2
+d52721e7-19bc-443e-bb02-bebb48729a4d,Enterprise,Europe,2024-07-27,2025-03-15,10,C,231,1,No,231,8,0,1
+4d6168bd-2def-4193-9c62-b3a23a3c563e,Pro,North America,2023-11-13,2024-06-30,26,"C, D, B",230,8,No,230,8,0,3
+0ba6eab9-4639-447b-a067-bdac88bd13d1,Pro,Europe,2023-06-26,2024-12-26,16,"D, C, E, B",549,2,No,549,18,0,4
+2053da42-f1af-4b65-b289-f2244ac9778d,Pro,Europe,2023-07-28,2024-09-29,18,C,429,6,Yes,429,14,1,1
+92f5df7b-0323-4342-9f6a-8f931a432f0a,Enterprise,Asia,2024-10-23,2025-05-01,10,"D, E, A",190,8,No,190,6,0,3
+2f32751e-5738-411d-b0c2-903f7a8d03aa,Enterprise,Asia,2024-01-22,2025-01-20,20,D,364,5,No,364,12,0,1
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,Basic,South America,2023-07-25,2024-02-06,12,E,196,3,No,196,7,0,1
+93b7a886-12f7-4c97-bde3-1a516694c343,Enterprise,South America,2025-03-15,2025-03-21,2,"B, A",6,4,No,6,0,0,2
+90164161-cfa7-41cd-a631-d00b26d794d3,Pro,South America,2024-10-16,2024-11-05,19,"A, B, C",20,8,No,20,1,0,3
+8edddfcd-1e52-4770-bf89-7142fe716b14,Pro,North America,2024-02-06,2024-04-12,19,"B, C, E",66,6,No,66,2,0,3
+9e50aa42-ca6d-4da1-989b-c4da9b37a22b,Basic,North America,2025-01-29,2025-04-19,24,"B, D",80,9,No,80,3,0,2
+715629ee-e893-4e3d-b354-ea6f61607459,Basic,Asia,2023-12-08,2025-01-16,25,"C, D, A, B, E",405,4,Yes,405,14,1,5
+9191b363-4e2d-4645-adc7-cac7fd72b050,Pro,Europe,2024-02-01,2025-05-03,29,D,457,2,No,457,15,0,1
+19675f06-bd76-4e35-b5c9-b0479c10c572,Enterprise,Asia,2024-10-10,2024-11-02,23,"A, C, B",23,3,No,23,1,0,3
+a911d192-43bf-4931-b605-bf54a021c0ca,Pro,Europe,2025-01-28,2025-03-09,4,"B, E",40,4,No,40,1,0,2
+1337739e-8d4f-4d27-ac7f-0b793d67cde9,Pro,Asia,2023-08-18,2023-12-17,15,E,121,3,No,121,4,0,1
+980402a2-b07a-4066-b354-35ea68949b8d,Basic,Asia,2023-10-15,2023-10-17,13,D,2,9,No,2,0,0,1
+b4fb0eb9-49c1-4de7-bb42-06c5085b15fb,Enterprise,North America,2024-06-14,2024-10-05,5,"C, A, B, E",113,9,No,113,4,0,4
+ec856f37-3bc1-4987-aff8-754d1238d630,Enterprise,Europe,2024-01-21,2025-01-07,25,"B, D, C, A, E",352,9,Yes,352,12,1,5
+ef04e57d-cdcc-433a-a943-4aa096fc734d,Basic,Asia,2024-01-07,2025-05-06,30,"B, C",485,9,No,485,16,0,2
+a5cb63a2-398d-4ca6-8b68-70b51d61fac3,Pro,Europe,2023-11-16,2024-10-11,21,E,330,5,Yes,330,11,1,1
+0f44704f-1247-4a4e-a469-98e8d39e198b,Enterprise,North America,2023-10-09,2024-05-02,17,"B, E, A",206,10,No,206,7,0,3
+91b78d8e-d301-4989-bfbb-b17f9854ce4e,Pro,North America,2023-10-22,2024-06-16,27,"A, E, D, B, C",238,10,No,238,8,0,5
+b04d3376-77fc-4703-9fd5-a423706c5c56,Pro,Asia,2025-05-31,2025-06-07,21,C,7,8,Yes,7,0,1,1
+8a3c3b5e-801e-41da-85b1-ed25f1533ae8,Pro,South America,2024-02-07,2024-12-15,3,"A, B, D, C",312,8,No,312,10,0,4
+e3b137fc-0a34-40fc-9918-ee461497d658,Enterprise,Europe,2024-07-03,2024-12-20,11,"C, E, B",170,3,No,170,6,0,3
+176132ed-069f-44f1-8018-1c6e9a8cfa3c,Enterprise,North America,2024-05-16,2025-01-21,11,"B, D, A, E, C",250,4,Yes,250,8,1,5
+964db03f-9340-4fad-9c4a-d56bd6016237,Pro,South America,2023-12-10,2025-05-16,28,E,523,7,Yes,523,17,1,1
+9384ec2b-44fe-4cae-9248-a9a7ac1aa554,Pro,Asia,2023-07-02,2025-02-15,7,"B, D",594,9,No,594,20,0,2
+84dad06a-7872-4deb-acd9-4cbbc19ad58c,Pro,North America,2023-07-17,2025-02-28,3,"D, E, A",592,4,No,592,20,0,3
+ff37d19c-2e76-428b-8735-44f9ea83bf00,Basic,Asia,2024-11-03,2025-04-23,16,E,171,8,Yes,171,6,1,1
+f8140102-7de1-4dfe-9072-5b5ca2814044,Basic,South America,2024-09-12,2025-02-28,5,C,169,6,No,169,6,0,1
+5230dfbd-5553-42fe-a889-803e5913f9d3,Basic,South America,2023-08-25,2024-08-24,2,"E, B, D",365,9,Yes,365,12,1,3
+6961929e-546e-435a-a92b-d156db946570,Enterprise,South America,2024-11-17,2024-12-27,25,"E, C, D, A",40,3,No,40,1,0,4
+668409e3-f1f8-443e-a99f-131849c8a43f,Pro,Asia,2024-12-05,2025-03-11,18,"C, B, A, D",96,9,Yes,96,3,1,4
+409d3602-5084-4242-968b-1625746f7891,Basic,Asia,2025-03-08,2025-03-15,26,D,7,9,No,7,0,0,1
+dd6ac7b8-6778-443b-85c5-b37af85e06a1,Enterprise,Europe,2024-02-22,2024-05-22,11,"E, C, A, B, D",90,10,No,90,3,0,5
+de8ede0b-a85c-4e4a-804b-6fabfcf56188,Enterprise,South America,2024-07-19,2025-06-04,23,"E, C, B, A, D",320,6,No,320,11,0,5
+84b871bb-3005-48d2-8de0-51a669ca97d2,Enterprise,Asia,2024-08-10,2025-02-05,26,"A, D, B, E",179,1,No,179,6,0,4
+0d366dfc-c28e-4d70-b129-9889a01ac992,Enterprise,South America,2024-03-23,2025-04-14,5,"B, A",387,10,No,387,13,0,2
+49bc473f-ed7b-4656-a18a-15368c99a894,Basic,North America,2023-11-21,2024-06-15,15,C,207,7,Yes,207,7,1,1
+a14923c2-f920-464c-8763-fcd01f15c7b6,Pro,South America,2024-05-21,2025-06-01,28,"A, B",376,9,Yes,376,13,1,2
+8d03c91e-4f8d-4238-a88b-78b5b5b453ca,Enterprise,South America,2024-09-30,2024-12-31,17,"D, C, A",92,8,No,92,3,0,3
+fe049059-3985-4b62-97dc-8eff687213f9,Enterprise,Asia,2023-06-26,2024-08-27,22,"C, D, A",428,4,Yes,428,14,1,3
+a5d04d53-1e12-42e3-b272-92b6762172ed,Basic,Asia,2025-03-30,2025-04-10,25,"C, B, E",11,8,No,11,0,0,3
+4ab7706e-b773-40ca-aec2-59dc7f95897c,Enterprise,Asia,2025-03-23,2025-04-06,10,"A, D, B",14,6,No,14,0,0,3
+7b85179a-d5b0-47e0-aa5d-932b45ff2c83,Pro,North America,2024-07-15,2025-04-14,10,"A, C",273,8,No,273,9,0,2
+6232b17a-2507-4181-8d1f-b54074eff545,Basic,Europe,2024-06-16,2024-09-18,27,"E, C, D, B",94,3,Yes,94,3,1,4
+22f235f2-e11b-468d-bf0d-073d821c1336,Basic,Europe,2023-11-11,2025-02-18,2,"E, B, C, A, D",465,2,No,465,16,0,5
+dabac50d-ca3d-4859-85ce-099c46b82659,Basic,Europe,2025-04-17,2025-04-23,1,"E, B, D, C",6,8,No,6,0,0,4
+44656d6b-81fb-48b3-89a7-d91fef2ae713,Pro,Asia,2024-05-03,2025-01-21,21,"A, E, C",263,10,Yes,263,9,1,3
+d664d264-4c6e-47ff-b9de-7a3a486822b9,Basic,South America,2025-03-14,2025-03-14,29,B,0,1,No,0,0,0,1
+dd81b7f5-7d59-41c6-a8f1-e091ffb8102d,Pro,Europe,2024-09-13,2025-04-26,30,"C, A, D, B",225,10,No,225,8,0,4
+551ac8ea-585a-4afa-bbfd-cc1289e06ab3,Pro,South America,2023-10-09,2024-09-19,21,"E, D, A",346,9,No,346,12,0,3
+eecf67d2-7491-46f4-a090-d6978b1e3b9d,Basic,Asia,2024-08-17,2025-06-09,6,"D, C",296,3,Yes,296,10,1,2
+9261549d-3d22-4c30-b28f-41defb140bc3,Pro,Europe,2024-02-20,2024-07-15,6,"E, D, B",146,9,No,146,5,0,3
+0b2c782a-6928-4e92-868a-152fdb23aa8c,Enterprise,North America,2024-04-08,2024-10-06,6,"B, D, E, A",181,1,Yes,181,6,1,4
+61985d54-cfb8-4e6f-a9d6-8f23b489d070,Pro,Asia,2024-02-18,2025-02-19,11,"C, A",367,5,No,367,12,0,2
+2051acef-097a-4e10-b6fe-bc0e7ecddbaf,Basic,North America,2024-04-10,2024-08-06,15,"C, B",118,7,No,118,4,0,2
+dfcaf0b7-19b1-4e80-9ea4-ae1754fd9ad3,Enterprise,North America,2024-07-10,2025-02-24,21,"C, E, D",229,4,Yes,229,8,1,3
+74f93d17-e912-44bf-86a4-bae41986b4b2,Pro,Europe,2025-04-02,2025-05-14,15,"E, C",42,7,No,42,1,0,2
+a79fbfaf-def5-4689-a8f4-5bce24e75e8e,Enterprise,Europe,2023-06-27,2025-01-08,25,"B, A, C, E",561,9,No,561,19,0,4
+43d88870-f81d-4aa1-8812-0a8e78308930,Enterprise,North America,2023-10-13,2023-12-10,2,E,58,9,Yes,58,2,1,1
+541cdfcd-da0d-4a5f-948f-8b74a65bb1f2,Basic,Europe,2024-03-04,2025-01-06,11,"E, D, A, C, B",308,2,No,308,10,0,5
+f4427e0b-6148-4bb3-889b-78d5dbfdd97e,Basic,South America,2025-04-08,2025-06-12,5,"E, D, B, A",65,9,No,65,2,0,4
+9e11d2cd-0930-4ef6-8a80-068ddf547e50,Enterprise,North America,2024-02-16,2025-03-01,13,"C, A, E",379,4,No,379,13,0,3
+4991ab9b-ebc2-426f-af34-cf65a193c4b2,Pro,Asia,2023-08-08,2024-02-06,23,A,182,9,No,182,6,0,1
+c2a79689-1933-418c-ba74-57616f18c108,Pro,North America,2023-12-09,2024-02-17,10,D,70,3,No,70,2,0,1
+4ca9cf07-b1aa-4f6a-aa96-e1e27194eae2,Pro,South America,2024-10-20,2024-11-28,15,"D, E, A, C",39,6,Yes,39,1,1,4
+0e5dd462-cbd0-4ef2-930a-37df0bc61066,Pro,Europe,2025-05-17,2025-05-18,24,"B, A, D, E, C",1,9,No,1,0,0,5
+3e83b91f-2544-4fe0-ae41-7d475ff595ea,Basic,Europe,2024-01-29,2024-11-02,15,"C, B, D, A",278,2,Yes,278,9,1,4
+2e183554-cae2-4e66-ae8a-781390e0a95b,Enterprise,North America,2024-08-01,2025-01-08,8,"B, A, D, C",160,8,No,160,5,0,4
+61ee6c5b-deef-480f-9c07-a75114374509,Basic,North America,2023-10-26,2024-03-09,13,D,135,4,No,135,4,0,1
+24a35cf2-9549-4931-a9af-299d7f671eec,Basic,Asia,2024-10-09,2025-01-10,8,E,93,6,No,93,3,0,1
+415d174a-75a6-4981-8104-a8b5a34db7c5,Basic,Asia,2023-12-13,2024-12-05,29,"B, E, D",358,5,Yes,358,12,1,3
+e6b5a92c-771a-4655-8dfc-6ee0e61ede90,Enterprise,Europe,2024-11-14,2024-11-17,21,"D, E, A, B, C",3,9,No,3,0,0,5
+f1faf665-7115-43f3-92e8-9d1028711733,Pro,Europe,2024-01-25,2025-03-24,10,"D, B, C, E",424,4,No,424,14,0,4
+6c9f82b9-f647-4986-a391-7c994c955f6a,Enterprise,Europe,2024-03-10,2025-06-09,26,"D, A, C",456,7,No,456,15,0,3
+32ffe294-4d57-4880-9865-d69a74f33103,Enterprise,Europe,2024-12-03,2025-03-10,13,"B, C, A, E, D",97,8,No,97,3,0,5
+92698698-61a1-4729-bcb9-83501b4da0fe,Enterprise,Europe,2024-04-09,2025-04-19,2,C,375,7,No,375,12,0,1
+4b943e30-b303-4438-be21-10d04bbe4aff,Basic,North America,2024-03-20,2025-06-09,7,"E, B, D, A, C",446,5,No,446,15,0,5
+0212b554-4644-48b4-a553-867da881bfd3,Basic,Europe,2023-07-03,2025-04-07,24,A,644,8,No,644,21,0,1
+0c8e29e3-f93e-48d5-bea2-9dfec73f6e1b,Enterprise,Europe,2024-08-28,2025-05-21,13,"B, C, E, D, A",266,9,No,266,9,0,5
+e776b886-d534-4e1d-bf29-84f5bec39a37,Pro,Asia,2025-05-23,2025-06-06,17,"D, E, A",14,8,No,14,0,0,3
+9b689c88-3ae9-49fe-8c82-18dac696f5e6,Basic,Asia,2025-05-17,2025-05-30,11,"D, A, C",13,4,No,13,0,0,3
+9ef2b93e-30ac-4d7b-a2f9-63a33810ae66,Pro,South America,2025-02-27,2025-05-06,10,B,68,4,No,68,2,0,1
+a8c01f05-c478-46f1-b88e-c318c16d83ed,Enterprise,Europe,2023-12-27,2025-06-05,16,"E, C, B, D",526,8,No,526,18,0,4
+a0a11839-e745-4704-98df-bc3ca0d4de3d,Basic,Europe,2024-11-25,2025-01-17,24,"E, D, A",53,9,No,53,2,0,3
+088a93ec-70d9-49f8-89e2-60744f1639a0,Enterprise,North America,2024-10-30,2024-11-14,27,A,15,1,No,15,0,0,1
+e8dd5e5a-1712-4b16-a1a4-344fbb7bee03,Basic,Europe,2024-09-08,2025-01-27,3,"B, A, D, E",141,6,Yes,141,5,1,4
+336749b5-2cf6-4f75-aa5e-6920bf5ae7e6,Pro,South America,2024-01-31,2024-10-10,1,"A, D, E, C, B",253,9,No,253,8,0,5
+5da8d6d2-f8b3-4a8b-a05f-b8bc8a16a06c,Enterprise,South America,2023-09-26,2025-05-28,26,B,610,2,No,610,20,0,1
+2a1f955a-d499-4a99-85c4-5a3ee9da484a,Basic,Europe,2024-08-01,2025-02-11,7,"E, C, B, D, A",194,2,No,194,6,0,5
+bf1e8366-4b8e-43d4-8e76-07adf7a67b94,Pro,Europe,2024-01-01,2025-01-09,23,"B, C, D, A",374,1,Yes,374,12,1,4
+f6802cdb-77e4-40c7-9d7b-c313cde22f1c,Pro,South America,2025-04-22,2025-05-24,2,"A, B, E, D",32,7,No,32,1,0,4
+dc322c97-39c1-4262-b76c-8edec1101266,Enterprise,North America,2023-08-13,2023-11-30,29,"E, A, D",109,4,No,109,4,0,3
+8eac0a33-cdf9-44a7-9882-b5c1f79efd70,Pro,Asia,2024-11-22,2025-04-25,2,"A, C, D, E, B",154,6,Yes,154,5,1,5
+43b38eb4-0390-4c5d-a502-d6a2ca6a2224,Enterprise,Europe,2024-03-26,2024-06-04,25,"D, A",70,5,Yes,70,2,1,2
+bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77,Enterprise,South America,2024-08-05,2024-09-21,22,"E, C",47,7,No,47,2,0,2
+a377f6f1-d289-40ab-a18a-e30595a5bafa,Enterprise,North America,2024-11-19,2025-02-28,17,"C, A",101,2,No,101,3,0,2
+066803ee-78b2-4549-bbdb-c09eacc216a0,Pro,South America,2024-03-30,2024-06-22,25,C,84,1,No,84,3,0,1
+38ab854c-9c2e-48de-aa4e-361753f8382b,Pro,Europe,2024-10-09,2025-05-15,12,"E, D, B, A",218,10,No,218,7,0,4
+e8cda0cc-76da-4ca0-92e8-2f38a2a9d4d8,Enterprise,Asia,2024-10-31,2024-11-24,26,B,24,2,Yes,24,1,1,1
+23c86d30-1dde-4969-a886-13dba6348e78,Pro,Europe,2024-12-11,2025-02-07,24,"D, C",58,6,Yes,58,2,1,2
+1dba1267-7e1c-45a1-bef5-18a64dead645,Pro,South America,2023-07-21,2023-08-18,12,C,28,2,Yes,28,1,1,1
+637e4b01-22ba-410e-899c-a782e3236d1a,Pro,South America,2023-08-30,2024-02-28,18,"E, D",182,2,Yes,182,6,1,2
+b24cc64f-be3e-4e57-b30a-9e32aba4fc03,Enterprise,North America,2024-06-02,2024-10-24,20,"E, C, B",144,1,Yes,144,5,1,3
+278ed00d-ba02-46ef-be05-5787965befdf,Basic,Europe,2024-08-08,2025-01-17,19,"E, B, C, D",162,3,Yes,162,5,1,4
+7d45d8ef-d56c-48ea-9959-7b5aa7a8f636,Pro,South America,2025-05-03,2025-05-23,5,"A, B, D",20,5,No,20,1,0,3
+08601833-479d-4cda-b396-ea37f065c817,Basic,Asia,2024-10-06,2025-03-13,9,"B, D, C, A",158,8,Yes,158,5,1,4
+f3579560-71d7-4665-b181-8dcf379efc6e,Basic,South America,2024-12-03,2025-04-25,11,"E, D, B",143,8,No,143,5,0,3
+5e09a9ee-af88-4dec-bb1e-143b196f4dfa,Basic,Asia,2023-12-16,2024-09-22,11,"E, B, D, C, A",281,7,No,281,9,0,5
+46a02a9b-65ec-4acd-8f80-35f55bd20c98,Enterprise,South America,2024-08-11,2025-04-18,19,"B, C, E",250,5,No,250,8,0,3
+74685b98-d2fe-4fde-9918-b3e5f2f25eef,Pro,North America,2023-11-10,2024-02-12,30,"E, B, C, A",94,9,Yes,94,3,1,4
+98de8ebb-a3b5-4ece-a446-be72364c911a,Enterprise,Europe,2023-08-26,2025-01-21,15,"C, A, B, E",514,3,No,514,17,0,4
+fd235def-3e5a-47e3-9560-db22c96b5edb,Pro,Europe,2023-07-02,2023-08-10,23,"D, E",39,2,No,39,1,0,2
+d46ef104-1190-4f50-b488-5a4690882eaf,Pro,South America,2023-09-21,2025-05-24,18,"E, D, C, A, B",611,9,No,611,20,0,5
+d0243d72-3748-467f-961d-33ba350843f0,Basic,Europe,2025-01-30,2025-05-17,22,C,107,3,No,107,4,0,1
+c9e48e8c-25c6-4c45-863d-04ee541c7a86,Enterprise,South America,2025-04-21,2025-05-13,25,C,22,7,Yes,22,1,1,1
+fbe94499-dbc0-40fd-86fb-7bf300b9d4a3,Pro,Europe,2025-05-15,2025-06-12,17,E,28,9,No,28,1,0,1
+2cabd7e7-cc6b-46e5-802a-df9c8a4b8f7c,Basic,South America,2023-10-06,2024-01-14,12,"D, E, C, A, B",100,1,No,100,3,0,5
+03cde2e3-21bd-4b41-8699-8731ddcf8766,Pro,North America,2023-09-09,2025-02-03,4,"B, C, E",513,6,No,513,17,0,3
+2c9b662e-040a-4aae-92e2-afd996bf10ab,Enterprise,South America,2024-03-20,2024-09-20,12,"D, A",184,8,No,184,6,0,2
+86ad8a8c-6bc4-423e-bde1-3c1b20733f6d,Pro,North America,2024-01-08,2024-02-17,10,"A, E, D, B",40,2,No,40,1,0,4
+c72c1fe3-72c2-4a16-b9eb-4168104556e5,Enterprise,Europe,2023-09-12,2025-04-13,17,"B, E",579,6,No,579,19,0,2
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,Basic,South America,2024-03-23,2025-04-25,21,"B, E, C, D",398,7,Yes,398,13,1,4
+e8a3f341-c881-4065-ba2c-98ce0b19f88e,Basic,South America,2023-12-05,2025-03-26,19,"D, E, A, C, B",477,5,No,477,16,0,5
+f6ca6b8b-a4b1-4991-b542-46464d37a539,Enterprise,North America,2025-04-19,2025-06-08,26,E,50,3,No,50,2,0,1
+66d06371-d8e8-4ebb-ba9e-8eefffa361be,Pro,North America,2023-07-10,2023-08-26,9,"D, C",47,10,No,47,2,0,2
+718d4d05-e8e2-4743-b65f-eea97d824264,Enterprise,North America,2024-05-12,2024-08-03,12,"C, D, E, A",83,5,No,83,3,0,4
+10d08d11-25f9-44bf-9bb9-61555275eb94,Basic,Europe,2023-08-12,2023-10-13,11,"A, B, D, E, C",62,6,No,62,2,0,5
+8c611654-95da-45c1-a211-50f99fd34579,Pro,South America,2023-09-22,2024-04-22,20,"B, D, E, A, C",213,9,No,213,7,0,5
+87d292a6-98ee-4c2b-be9f-ecaa6182f347,Enterprise,Europe,2024-12-20,2025-02-21,16,"C, B",63,3,No,63,2,0,2
+1963c26d-6e21-4b09-9afd-4015816bcb9f,Enterprise,North America,2024-01-31,2025-01-17,28,"C, A, B, D",352,4,No,352,12,0,4
+e0b15aba-a6a2-4967-a79b-44b6da509fed,Enterprise,South America,2025-02-21,2025-03-15,14,"D, E, C, B, A",22,3,Yes,22,1,1,5
+6e191042-370b-4063-9d90-e79eb888f6ed,Basic,Asia,2025-02-02,2025-05-20,2,C,107,4,No,107,4,0,1
+d3d1bf0f-56c4-48e4-a9ef-afb13a7e8e14,Pro,South America,2024-05-31,2025-05-10,18,"E, A",344,10,Yes,344,11,1,2
+50032b35-1857-4baf-bac7-e2b96a7e4c36,Pro,North America,2024-06-02,2024-11-03,25,"D, B, E, A, C",154,5,No,154,5,0,5
+f41ea3ac-5fd2-4109-8140-752caa448259,Pro,Asia,2024-05-12,2025-01-09,12,A,242,8,No,242,8,0,1
+175a81ec-112f-4612-b969-9ed2ec48bf55,Basic,Europe,2023-10-12,2025-03-28,26,E,533,6,No,533,18,0,1
+be9d61ee-18b8-4245-ae8f-75a117dded81,Enterprise,South America,2025-03-23,2025-03-31,6,"E, B, A, C, D",8,10,No,8,0,0,5
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,Enterprise,Europe,2025-01-09,2025-03-22,11,"C, E, D",72,5,No,72,2,0,3
+1f4a8ca1-ab85-4d59-9463-adc78fca7b6a,Enterprise,North America,2024-09-13,2025-04-19,5,"D, A, B, E, C",218,4,Yes,218,7,1,5
+c012a0ff-f0ed-4303-aa53-c19cdfa4bb9f,Basic,South America,2024-04-30,2025-01-29,16,"B, C, D",274,7,No,274,9,0,3
+4ffca6b1-99b4-49d4-89a2-14aef7e8f8e5,Enterprise,North America,2024-05-09,2024-06-17,13,E,39,5,No,39,1,0,1
+279c658a-3676-4ce5-81e5-c9f693f277cc,Pro,South America,2024-03-15,2024-06-03,11,"E, A, C",80,2,No,80,3,0,3
+59a1120e-1bb4-4332-98e7-012f39681c81,Enterprise,Asia,2024-11-07,2025-05-13,28,"A, D, E, B",187,4,No,187,6,0,4
+47503f1d-c33a-4f6c-9d69-1fba5e187b24,Pro,Asia,2025-04-02,2025-05-26,18,"E, B, C",54,8,No,54,2,0,3
+8f9b72ae-d85c-46bd-adda-4f8dcea60f4c,Basic,North America,2024-09-03,2024-11-29,21,D,87,1,Yes,87,3,1,1
+8e867f3c-a487-4eab-accb-461a9d132363,Pro,South America,2025-02-01,2025-06-01,1,"D, B",120,3,No,120,4,0,2
+b18753e6-d457-4ad9-a867-a096edd877c8,Basic,Asia,2023-07-06,2024-10-21,3,"C, E, A",473,6,No,473,16,0,3
+c32d4526-b3e4-410a-85f5-0c522e2fbf77,Basic,South America,2024-01-09,2024-01-31,21,"C, B",22,7,No,22,1,0,2
+deaf528d-2e70-4838-8190-262059dcabd0,Basic,Europe,2024-02-10,2024-10-30,16,A,263,3,No,263,9,0,1
+2451e5a4-11d0-49b2-a699-cd99a847bce7,Enterprise,South America,2023-10-05,2024-12-17,1,"A, C, E, B, D",439,8,Yes,439,15,1,5
+bf012e32-177d-4e7e-87d9-24cef8c88fae,Basic,North America,2025-01-11,2025-05-13,4,"C, E, B, A",122,7,No,122,4,0,4
+5744f596-7422-4167-ab7a-2460604e46cb,Enterprise,Europe,2024-08-01,2024-10-23,3,"E, A",83,10,No,83,3,0,2
+c6deb2f0-530a-41c7-b8ba-83684fc77768,Pro,Europe,2023-10-16,2024-07-29,21,"B, D, C, E",287,4,Yes,287,10,1,4
+27d415b6-0d77-45a0-a222-b6a615bfbe97,Basic,North America,2024-08-29,2025-04-17,19,D,231,6,No,231,8,0,1
+14e286e5-ac89-46bc-8cbd-3c039e2aa4ac,Basic,Europe,2023-10-16,2025-05-23,9,"A, B, C",585,10,No,585,20,0,3
+9b69554d-7c54-435f-ac8c-3b6aa974d079,Pro,North America,2024-01-13,2024-12-22,28,"C, B, E, A, D",344,5,No,344,11,0,5
+832920b7-c143-4426-b72f-871a45ee432d,Pro,South America,2024-05-24,2024-10-31,4,"B, D",160,10,Yes,160,5,1,2
+ad9fb00d-4882-473c-9c63-45ab6e0ed1e8,Pro,Asia,2023-09-12,2024-06-06,5,D,268,10,No,268,9,0,1
+0ba078e8-4ef4-42c1-aac9-331686e52753,Enterprise,Europe,2024-11-23,2025-05-30,25,"D, A, E, C, B",188,5,Yes,188,6,1,5
+01f7c7ec-0e06-40cd-996d-5c50fc04a168,Pro,Asia,2023-12-04,2024-10-06,21,E,307,7,No,307,10,0,1
+2321d1e1-c471-44c0-b613-6e15f200c261,Basic,Europe,2023-11-21,2024-07-12,9,"A, C, E, D",234,3,No,234,8,0,4
+01fa964e-1eb7-4b56-93ff-d3a24a193501,Enterprise,North America,2025-01-29,2025-03-19,10,"D, B, A, C",49,2,No,49,2,0,4
+61554667-2112-407c-acfa-55b06e3f683a,Pro,North America,2024-07-06,2025-04-22,10,B,290,2,Yes,290,10,1,1
+d556b37d-8f08-41ee-8011-316b3ae88926,Enterprise,North America,2024-08-02,2025-05-02,6,"D, C",273,9,No,273,9,0,2
+bdf66ba5-dc9c-46de-a5a6-74c212738a23,Basic,Asia,2024-11-15,2025-04-01,5,"C, A, D",137,6,No,137,5,0,3
+13eecdc6-ebd1-4d2c-b5b2-745504cc3ede,Enterprise,North America,2023-07-18,2024-06-20,9,"E, A, B",338,8,No,338,11,0,3
+67884209-92ca-425a-ade5-93329364f3d0,Pro,Europe,2025-04-15,2025-05-15,12,B,30,5,No,30,1,0,1
+67b03283-1d7c-4098-8a1d-ab326aedfdc7,Enterprise,North America,2024-12-18,2025-04-21,8,"E, A, D, C, B",124,1,No,124,4,0,5
+9e3d750d-f296-49f0-8d23-72c22bffe17b,Basic,Europe,2023-07-02,2024-03-10,30,"A, D, E, B",252,4,No,252,8,0,4
+168fae12-5ca2-40c9-ab76-07c9b08a4895,Pro,North America,2024-06-07,2025-04-26,19,"C, A, E",323,1,Yes,323,11,1,3
+6683e107-96c0-44d0-af88-7f283e49fd09,Basic,South America,2024-05-20,2024-08-10,3,"D, C, B, E, A",82,9,No,82,3,0,5
+beed10b6-4f6e-474b-9eda-b0276550f74a,Basic,Asia,2024-07-26,2024-08-25,19,"C, B, D",30,6,No,30,1,0,3
+138d994c-2b0a-4edd-8774-44cb5543fc3c,Basic,Europe,2024-03-05,2024-08-24,5,"A, D, E, C",172,9,No,172,6,0,4
+31a3ac4d-828c-47e7-87d5-b7be1d30d990,Pro,North America,2024-07-16,2025-03-18,25,D,245,5,Yes,245,8,1,1
+d1a69d87-f54e-4019-ba35-844e59e1ac09,Basic,South America,2025-05-19,2025-06-04,16,"A, B, C, D, E",16,1,No,16,1,0,5
+4187222b-257d-4e52-9a51-65ca3c7c1d85,Pro,Asia,2024-10-29,2024-12-25,15,"A, E, C, D, B",57,2,No,57,2,0,5
+c257cf73-c29d-482b-a722-796e9a36d1ec,Pro,Europe,2023-11-16,2024-03-29,8,C,134,5,No,134,4,0,1
+a0c14035-c5d9-4f51-b387-e1bd2d5972c6,Enterprise,Asia,2024-11-06,2024-12-05,11,"D, C, A, E",29,4,Yes,29,1,1,4
+9458054e-c287-4f06-9050-f7efc1235c91,Basic,Europe,2024-07-03,2024-12-30,4,"B, D, E, C, A",180,2,No,180,6,0,5
+a49b1cd9-9082-489b-a1cd-e87fec955f87,Pro,Asia,2024-05-29,2025-02-17,15,"C, A",264,2,Yes,264,9,1,2
+50ee7a92-a091-41e0-b891-b0c3dd3f487e,Enterprise,North America,2024-10-21,2025-02-23,7,"C, B, A",125,4,No,125,4,0,3
+a1a27485-7134-4c2a-b80b-3657117b355b,Enterprise,North America,2023-10-11,2024-09-16,22,"C, E, A, D",341,7,No,341,11,0,4
+81e0d489-5a18-42a3-8e61-4bcd97674900,Enterprise,Europe,2024-02-06,2024-09-06,4,"D, A, E, C, B",213,1,No,213,7,0,5
+0e9058b6-09a0-40f6-b3b0-a0917634c169,Basic,Europe,2023-08-12,2024-04-09,27,"D, C",241,2,No,241,8,0,2
+fa34d2e8-dd3f-4d7e-a508-dc9513a4a492,Basic,North America,2024-03-28,2024-11-05,3,"B, D, A",222,2,No,222,7,0,3
+626d719d-81cf-4252-9815-9d6c9d713084,Basic,North America,2025-04-10,2025-04-18,15,"A, B, C",8,7,No,8,0,0,3
+bd29ede9-cab4-423b-b448-83858de7ad6c,Pro,North America,2024-06-09,2025-01-20,13,"D, B, E, A",225,3,Yes,225,8,1,4
+925817b7-cf50-4889-a8b7-7f7b7321bf6b,Basic,North America,2025-05-11,2025-05-12,20,"E, B, C, D",1,8,No,1,0,0,4
+80599b93-79c2-42e4-9ae1-a991524f93ff,Pro,North America,2024-11-03,2025-01-15,3,"C, D, A, B, E",73,9,Yes,73,2,1,5
+e62d2d06-cf9b-4558-9a7f-195b73557b9d,Basic,South America,2023-10-11,2023-11-28,26,"C, D, E, B, A",48,10,No,48,2,0,5
+812a1f9b-1596-4802-b6dd-6257fb7d9f1c,Pro,Europe,2025-03-27,2025-04-29,1,"C, B, A, D",33,1,No,33,1,0,4
+7010ed13-b526-422d-bf6c-21f70a0537f0,Enterprise,Asia,2024-10-29,2025-01-04,25,"E, B, A, C",67,4,No,67,2,0,4
+486bb6bf-eafd-47d9-9f73-3a3e5d286aa4,Enterprise,North America,2024-05-22,2024-09-22,25,"B, D, E",123,3,Yes,123,4,1,3
+990f0c5b-adcc-4daf-969f-3ab3c6435300,Pro,Asia,2024-04-11,2025-02-22,30,"E, A, C, B, D",317,10,No,317,11,0,5
+10df9974-55ab-446d-a5b5-cdc2a181c85e,Enterprise,Asia,2023-07-26,2025-03-30,6,"D, A, E, C",613,4,No,613,20,0,4
+48bddb3e-62f5-4f2b-adaa-44ca8ed6ad5e,Enterprise,South America,2024-02-27,2024-05-10,1,C,73,10,Yes,73,2,1,1
+df8f4197-9a4a-49b2-a806-133cf6e39356,Pro,Europe,2023-12-28,2025-05-20,30,"C, A",509,1,Yes,509,17,1,2
+2434a678-a9e2-4ba9-952e-6abb14dd5061,Basic,Asia,2023-10-10,2024-06-24,3,"C, D",258,10,Yes,258,9,1,2
+b2cf952d-a7f3-43b3-b7ba-f55e4f6b58c8,Pro,Europe,2025-05-28,2025-06-05,6,"D, E, C",8,6,Yes,8,0,1,3
+f020e992-b576-455e-9854-9f222102f9c9,Enterprise,Asia,2024-11-11,2025-04-12,8,"E, B, D, C, A",152,3,Yes,152,5,1,5
+caaa5bbe-a4bb-4962-a06e-0e1c8f158449,Enterprise,South America,2023-08-20,2024-04-16,28,E,240,1,Yes,240,8,1,1
+f275b5f3-d436-47a8-b3ec-b951ab8cbf97,Enterprise,Europe,2024-02-26,2024-06-04,21,"E, A, B",99,3,No,99,3,0,3
+a561e1e9-17ec-489c-86c1-b6cbe99630f7,Basic,Asia,2025-01-09,2025-05-22,11,B,133,2,No,133,4,0,1
+5cd33369-04aa-41b7-9ca0-c428822c4d32,Pro,North America,2024-11-17,2025-04-30,9,"B, E, C",164,2,No,164,5,0,3
+f29a6339-577b-455a-b6d5-5494f37fd50d,Enterprise,North America,2024-02-10,2024-06-29,2,D,140,8,No,140,5,0,1
+23377bbc-fffe-47c8-b9fe-b99c31274148,Pro,South America,2025-01-31,2025-05-05,29,"D, C",94,9,No,94,3,0,2
+19e45c6a-c9c2-4e69-982c-75654bb907ec,Enterprise,Europe,2023-10-14,2023-12-12,6,"D, A, E, B",59,1,No,59,2,0,4
+e238fe93-bd17-45e8-95ca-69ab8a2e6a93,Basic,Asia,2024-07-14,2025-05-09,6,D,299,3,No,299,10,0,1
+c42cbc39-e05b-46c5-9636-3094a97431db,Basic,Asia,2024-07-28,2024-08-11,20,"E, D, C, A, B",14,3,No,14,0,0,5
+29890880-277d-4be9-a070-b6a198e52499,Basic,North America,2024-10-08,2024-11-27,4,"C, B, A, D",50,9,No,50,2,0,4
+e7147668-cf1d-4d3a-9fee-fdffc566aa81,Pro,Asia,2023-11-03,2025-04-24,10,"B, A, D, E, C",538,3,Yes,538,18,1,5
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,Pro,North America,2023-10-22,2025-05-04,10,E,560,8,Yes,560,19,1,1
+48f1096d-9c4f-4b46-b1b7-01aaf836f571,Basic,Europe,2024-11-22,2025-02-22,21,C,92,2,No,92,3,0,1
+88b4f474-3be7-4df4-b2ec-f16ec8a723e9,Pro,South America,2025-01-20,2025-06-14,16,D,145,5,Yes,145,5,1,1
+78116802-c8cc-4cfe-8f01-f944f7315749,Pro,Europe,2023-12-18,2024-08-14,12,"D, C, A, B, E",240,5,No,240,8,0,5
+92070158-f277-4f63-ada5-84175e2ad32d,Basic,Asia,2025-05-18,2025-05-27,19,"A, B, C",9,2,Yes,9,0,1,3
+61c2645a-c733-4304-8822-3120c4f9eccd,Enterprise,South America,2024-05-23,2025-05-16,25,"E, B, C",358,1,No,358,12,0,3
+d11fc8c0-297c-44ff-b75d-599f6b2d5b09,Pro,South America,2024-07-10,2025-01-30,19,"B, D, E, A, C",204,1,No,204,7,0,5
+0d5ba7cd-4000-45f0-9f7d-0dd7236e1608,Enterprise,Europe,2023-11-18,2025-03-01,4,"D, B, A, C, E",469,3,Yes,469,16,1,5
+ef2ddcc4-8df6-41da-9f07-c1a5dfc620ce,Enterprise,South America,2024-10-26,2025-04-30,7,B,186,10,Yes,186,6,1,1
+1feae1e0-d9e6-44b3-8412-a335d88c656d,Basic,South America,2023-09-03,2025-03-08,18,D,552,9,No,552,18,0,1
+73069588-45d5-468d-a90a-3abbc35b9fea,Enterprise,South America,2024-01-23,2024-03-28,30,"A, D, E",65,7,Yes,65,2,1,3
+177a8a5f-6ffe-43b3-94bf-7a4b25b8a42f,Enterprise,North America,2025-05-19,2025-06-12,30,"A, E, B, C, D",24,5,No,24,1,0,5
+597e6845-e277-48c5-b37d-1fb6d11376e0,Enterprise,South America,2025-05-23,2025-05-28,2,"B, C, E, A",5,10,No,5,0,0,4
+808389c8-657e-41c9-8da2-3e5c6a36af18,Basic,South America,2025-06-07,2025-06-07,29,"C, B, A, D",0,5,No,0,0,0,4
+5ffa46ef-14e4-480c-be99-36a362dbc850,Pro,Asia,2024-04-01,2024-10-01,10,C,183,8,No,183,6,0,1
+d6d441cc-195d-42f8-ae4a-9b5d519554e3,Basic,Europe,2023-12-07,2023-12-28,10,D,21,6,Yes,21,1,1,1
+2339ba19-2563-4cc3-8a97-ebf555d596af,Enterprise,North America,2024-12-22,2025-04-27,7,"D, B, E, C",126,9,No,126,4,0,4
+b231c60b-78f2-4e6b-946b-415deada79a3,Enterprise,Europe,2023-07-15,2024-02-22,3,C,222,9,No,222,7,0,1
+72d78bdd-7817-49ff-b49e-04ccc24369e7,Enterprise,North America,2025-03-22,2025-04-04,6,"B, E, A, C, D",13,8,Yes,13,0,1,5
+41843b03-04dd-4054-9448-23f7e7e646c7,Enterprise,Europe,2024-10-05,2024-10-07,9,"C, D, E",2,7,No,2,0,0,3
+9bdf90f2-ba2c-4f19-b0b2-a5d18c7e6f42,Enterprise,North America,2023-11-30,2024-03-25,8,C,116,8,No,116,4,0,1
+3cd5fd7f-49c1-4669-86b3-3fe61c76bdf6,Pro,Asia,2024-07-29,2025-01-09,12,"B, C",164,2,Yes,164,5,1,2
+a3925731-6b79-4fcc-bd0a-5f0c0c394ec7,Basic,Europe,2024-02-04,2024-05-08,28,"E, B, A, C",94,4,Yes,94,3,1,4
+e7b7b4c6-d631-4a80-9c61-2ec210142131,Enterprise,North America,2025-02-21,2025-05-20,28,"A, D, E, C",88,10,No,88,3,0,4
+83efa9f3-a1c7-4c8a-8435-1b64893ad232,Pro,Asia,2024-07-08,2025-02-24,23,"C, D",231,7,No,231,8,0,2
+6de299a1-4a90-4d0c-a4c1-73b9b7f28572,Pro,Europe,2024-09-04,2024-12-06,15,"C, D, E, A",93,1,No,93,3,0,4
+6aa42c9f-9217-4475-bd95-9e3f5a5226e6,Enterprise,Asia,2023-06-17,2024-10-06,10,"A, D, E",477,6,No,477,16,0,3
+f982f4e0-8603-456a-95ea-cbcfab1021ce,Pro,Asia,2023-11-08,2025-04-07,21,"C, B, A",516,9,No,516,17,0,3
+81e03a5e-8b48-4496-86ab-d4e7f4124360,Enterprise,South America,2024-03-22,2024-05-13,22,C,52,3,No,52,2,0,1
+df92a621-63f4-469d-8534-a1018ddce719,Pro,Asia,2025-02-15,2025-05-24,30,"D, E, B, A",98,10,No,98,3,0,4
+5f90bed6-fb25-464d-a30a-a767a2bb522b,Basic,Asia,2024-06-15,2024-07-01,24,"B, D, C, E, A",16,3,No,16,1,0,5
+5844f9fc-114b-4547-89dc-72b85b6a8102,Basic,Asia,2023-12-30,2024-01-11,4,"D, B, C, E, A",12,6,No,12,0,0,5
+94f79dba-c581-4d2d-9a89-b71ea0d572c8,Pro,Europe,2023-12-20,2025-05-13,24,"C, D",510,6,No,510,17,0,2
+5a304528-0b59-4562-a227-219f551ff086,Pro,South America,2025-01-07,2025-06-02,28,"A, D, E, C, B",146,4,No,146,5,0,5
+d49405f0-2cd2-4404-a48e-40f1d0421dfa,Enterprise,Asia,2024-08-13,2024-12-22,14,"A, B, E, C",131,6,No,131,4,0,4
+a1b970d0-7a81-44de-b205-07bbfb16f757,Pro,Europe,2025-02-10,2025-05-11,11,"B, A, E, C, D",90,6,No,90,3,0,5
+f1901b7e-c6b4-49ef-b74e-ba9310275b53,Pro,Asia,2023-11-04,2024-02-16,7,B,104,10,No,104,3,0,1
+ca862225-0b36-4356-b39b-77a84b1f0d7b,Basic,Europe,2024-06-05,2024-06-19,20,"D, E, B, C",14,8,No,14,0,0,4
+83f02dc7-4f61-4217-aef1-669450cae32d,Enterprise,Europe,2023-11-17,2023-12-19,24,C,32,1,No,32,1,0,1
+c0d7ac73-095f-4a81-80d9-2bce7930ba20,Basic,North America,2024-04-20,2025-06-15,22,"A, B, E, D, C",421,3,Yes,421,14,1,5
+c7e53bbb-dcb5-4c53-9b62-a8df493e904d,Enterprise,Asia,2024-10-30,2025-01-12,6,"A, E, B, C, D",74,9,No,74,2,0,5
+1fdd980a-45f1-4619-94f9-0429a7de02cc,Pro,Europe,2023-07-23,2025-05-25,11,"D, C, A",672,3,No,672,22,0,3
+be4969ec-6667-43bb-a3b5-63606fdc0bad,Basic,Europe,2025-02-25,2025-05-07,8,"B, E, C, A",71,10,No,71,2,0,4
+7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0,Pro,North America,2024-05-22,2025-03-18,13,C,300,9,No,300,10,0,1
+84ef4324-cc1b-4157-ac9f-9c545e0a72ab,Basic,North America,2024-12-04,2025-03-10,21,"A, E, C, D, B",96,8,No,96,3,0,5
+6e3c4532-1434-4f62-acac-028cba220065,Pro,South America,2024-01-09,2024-03-13,23,"B, E, C, A, D",64,7,No,64,2,0,5
+1a43db54-523a-4993-8b34-46bc8ba435cc,Pro,Europe,2024-09-25,2024-12-04,14,"A, E, B, D, C",70,8,Yes,70,2,1,5
+7227890e-4e76-433a-8baf-0f5ea9320094,Pro,Europe,2023-08-17,2024-04-27,12,"D, C",254,3,Yes,254,8,1,2
+59fefbbc-71a3-4ad2-b094-6d2a2aa93b43,Basic,South America,2024-09-26,2025-03-10,11,"B, A, D, C",165,2,No,165,6,0,4
+5a4153b3-e95f-476c-9eba-c186ba108217,Basic,North America,2024-05-28,2024-06-13,25,"E, A, C, D",16,5,No,16,1,0,4
+ca9e4a62-fae3-414b-a3b4-42bd46494296,Pro,Asia,2024-10-05,2025-03-22,15,"A, E, D, C",168,5,No,168,6,0,4
+5d01f55f-67fd-44c4-a334-058aabd2b512,Pro,North America,2023-07-30,2023-09-26,4,"A, E, D",58,3,No,58,2,0,3
+f3ea0184-28f4-43ce-aded-da80bff9507d,Enterprise,Asia,2024-07-18,2025-05-25,29,"A, C, B, E",311,2,No,311,10,0,4
+c8040fb7-ad97-4b67-9b89-e5cbd942644c,Pro,South America,2023-07-10,2023-10-28,23,"D, E, C, A",110,2,Yes,110,4,1,4
+c74cc890-3c6a-4174-9136-34a520509c62,Basic,North America,2024-05-21,2024-06-17,14,E,27,8,No,27,1,0,1
+9136f1f8-f310-46dc-a202-bee65cb5e69c,Basic,South America,2024-10-29,2025-03-20,25,"C, A, E, D",142,8,No,142,5,0,4
+f2e6195f-732e-4016-add7-02c92747b93c,Pro,South America,2023-07-11,2024-10-22,2,A,469,5,No,469,16,0,1
+92ec89af-13ae-4376-8359-810a71a6014c,Enterprise,Europe,2024-03-30,2025-01-12,22,C,288,9,No,288,10,0,1
+a6499cdc-507b-4072-a5e5-8f345df06e8c,Basic,South America,2023-09-30,2024-11-14,22,"B, D, E, C, A",411,9,No,411,14,0,5
+bc55300b-06a2-41af-9d0a-f7f7f5e4a471,Basic,North America,2024-01-18,2024-07-29,21,"B, D, E, A, C",193,8,No,193,6,0,5
+8fc9c86b-e9dd-4bf5-a311-9aca848af440,Pro,North America,2023-11-07,2024-11-28,17,"B, D, E",387,4,Yes,387,13,1,3
+723ef466-b43b-427f-82a2-59a6c6641285,Enterprise,South America,2023-09-15,2024-04-05,3,"D, E, B, A",203,8,No,203,7,0,4
+ffa623d0-ea9e-4c8d-b1a8-b71f491b90e9,Basic,South America,2023-11-29,2025-03-18,14,A,475,9,No,475,16,0,1
+12f5131a-da52-42ee-a2bf-18f51f652a87,Enterprise,Asia,2024-07-01,2024-09-16,29,E,77,9,Yes,77,3,1,1
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,Pro,Asia,2024-06-01,2024-08-07,27,"A, B, D, C",67,9,No,67,2,0,4
+fc902838-d874-4408-b7b2-17c7ae92ea71,Pro,Asia,2023-08-23,2025-05-13,23,"D, A, E, C, B",629,6,No,629,21,0,5
+8acbbe09-8ccc-4cea-909f-d8eeb5a47200,Enterprise,Asia,2024-02-19,2024-11-14,23,"A, E, D",269,8,Yes,269,9,1,3
+b5a5f8e6-b639-4f04-a852-4385d9f2dd0d,Basic,Asia,2024-01-27,2024-09-15,20,"B, E, A, D",232,4,No,232,8,0,4
+5c8ac066-cb2f-4fa3-ac91-3a7ca3404f08,Enterprise,Asia,2025-06-05,2025-06-13,4,"D, A",8,10,Yes,8,0,1,2
+cac4d0eb-3373-430e-bc31-a5971f119c0f,Pro,Europe,2024-07-15,2024-10-10,16,"A, E, C, B",87,10,No,87,3,0,4
+5c63b6f3-06ba-4cd3-be78-38c9ca55e38b,Basic,Europe,2023-10-01,2024-04-01,24,"B, A, E, C, D",183,7,No,183,6,0,5
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,Pro,South America,2024-08-19,2025-03-29,11,"C, D",222,3,Yes,222,7,1,2
+10d4de39-1612-47c9-a25d-f9a89ca8a5c4,Enterprise,Asia,2024-08-17,2024-10-06,27,"E, C, D, A, B",50,4,No,50,2,0,5
+7a89cbeb-b807-478a-b788-f5d1ffe575f6,Enterprise,Asia,2024-02-11,2024-12-16,30,"B, E, C",309,9,No,309,10,0,3
+932cae01-d2c6-4ee4-a8d0-a2a8c4e7f7dd,Enterprise,North America,2024-07-28,2025-01-03,25,"C, D, E",159,10,No,159,5,0,3
+12fc7a87-a470-4d48-9128-b9b1f8ede0ca,Enterprise,Asia,2023-08-12,2023-11-17,29,"D, A, C, E",97,1,No,97,3,0,4
+20da8972-5832-4ee4-8471-b4b0ae1b9f69,Enterprise,North America,2024-05-30,2024-11-26,7,C,180,3,No,180,6,0,1
+6ec01269-2108-4dd9-b75d-1e3cc48d5650,Basic,North America,2025-04-27,2025-05-14,23,"C, B, E",17,1,No,17,1,0,3
+84a2576c-1fc9-45f8-94d6-07350e2f8958,Basic,Europe,2024-07-10,2025-06-12,24,"E, D, A, B",337,1,No,337,11,0,4
+ef4afa88-5299-4505-a976-aab22a26f770,Pro,Asia,2023-10-12,2024-06-04,18,"A, E, C, B",236,4,No,236,8,0,4
+84d67c4f-f0df-4684-b28e-41225894f7f1,Basic,Asia,2024-12-17,2025-01-29,25,"E, B, C, A",43,5,No,43,1,0,4
+3240d7a1-4027-4b7d-9430-29a9d88f1c94,Basic,Europe,2025-05-11,2025-05-24,24,E,13,2,No,13,0,0,1
+4d85e9c7-a001-4720-a00b-290346426c45,Pro,Asia,2024-10-21,2025-05-22,5,"B, C, A, E",213,8,No,213,7,0,4
+2b2bb8e9-a417-4093-80a8-a23d17eaec83,Basic,Europe,2024-10-05,2025-04-30,30,"C, A",207,10,No,207,7,0,2
+9fddde2e-a8a2-47ad-abd3-cdcd27794685,Pro,Asia,2024-09-17,2025-04-30,3,"C, B, A",225,9,Yes,225,8,1,3
+90494583-ec86-4890-97b0-0bdc566e3cbe,Basic,South America,2024-12-26,2025-04-22,18,"E, D, A, B, C",117,4,No,117,4,0,5
+0ba36279-14cb-4564-8743-7c3bdd20c3bf,Pro,Asia,2023-07-17,2025-04-17,7,"E, D, C",640,1,Yes,640,21,1,3
+c4576cc3-35f7-49bc-a6b0-745843c07d43,Pro,Europe,2024-10-26,2025-06-06,29,"E, B, A",223,6,No,223,7,0,3
+7f7f6c0a-07c0-4116-a394-ed549e3c5a88,Pro,Asia,2024-09-02,2025-02-10,18,C,161,1,No,161,5,0,1
+f4e7069a-a454-4937-8a27-ebf28baaf744,Enterprise,South America,2025-05-06,2025-06-05,16,"A, C, D",30,4,No,30,1,0,3
+af5b8f47-ceae-41cf-8e00-0af03eb05181,Basic,Europe,2024-02-05,2025-02-14,25,E,375,9,Yes,375,12,1,1
+0f5675f8-b048-4aa1-92ae-5c22741b77f5,Basic,Europe,2024-04-26,2024-12-13,28,D,231,2,Yes,231,8,1,1
