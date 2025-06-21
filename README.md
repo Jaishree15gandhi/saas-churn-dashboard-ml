@@ -18,18 +18,16 @@ To build a data-driven dashboard and machine learning model to identify churn pa
 ## 📁 Folder Structure
 
 ```
-churn_dashboard/
-│
-├── 01_Dashboard/                        # Power BI files (.pbix)
-│
-├── 02_Cleaned_Saas_Churn_Dataset/      # Cleaned dataset used for dashboard and ML
-│
-├── 03_churn_prediction_model/          # Jupyter Notebooks / Python scripts
-│
-├── 04_Screenshots/                     # Project screenshots
-│   ├── 01_Overview.png                 # Dashboard Overview
-│   ├── 02_Insights.png                 # User & Feature Analysis
-│   └── 03_ML_Report.png                # Churn Prediction Report
+saas_churn_dashboard_ml/
+├── 01_Dashboard/
+├── 02_Cleaned_Saas_Churn_Dataset/
+├── 03_churn_prediction_model/
+├── 04_Screenshots/
+│   ├── 01_Overview.png
+│   ├── 02_Insights.png
+│   └── 03_ML_Report.png
+└── README.md
+
 ```
 
 ---
